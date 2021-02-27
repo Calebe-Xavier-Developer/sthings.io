@@ -92,7 +92,7 @@
 }
 
 .challengeActive footer button.challengeSucceededdButton {
-  background: var(--red);
+  background: var(--green);
 }
 
 .challengeActive footer button:hover {
